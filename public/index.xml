@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anh's Personal Page</title><link>https://anhhhtran.netlify.app/</link><description>Recent content on Anh's Personal Page</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 09 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://anhhhtran.netlify.app/index.xml" rel="self" type="application/rss+xml"/><item><title>A taste of things to come</title><link>https://anhhhtran.netlify.app/post/introduction/</link><pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate><guid>https://anhhhtran.netlify.app/post/introduction/</guid><description>&lt;p>At the core of this blog is the belief that each write-up can be useful or inspiring for someone else. As a software engineer, I have found most value out of short, clearly written documents on fields and technologies. As a person, I however enjoy even more the random bits of life and crumbs of interesting thoughts that can expand and grow into new ideas, new views, new opinions on the world. On this blog, you can expect both a combination of technology, algorithms, guides on my path as a software engineering, thoughts and opinions on the &amp;ldquo;religions&amp;rdquo; of the engineering world, interesting facts on science, psychology, philosophy, as well as some of my own written short-stories.&lt;/p></description></item><item><title/><link>https://anhhhtran.netlify.app/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anhhhtran.netlify.app/about/</guid><description>&lt;p>My name is Anh, and I&amp;rsquo;m currently a junior student at Bucknell University majoring in Mathematics and Computer Science. I have a massive interest in building scalable full stack applications, and I&amp;rsquo;m curious about everything.&lt;/p>
+&lt;p>Here are my &lt;strong>skills&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>Frontend: HTML, CSS, JavaScript, Typescript, React, Redux, TailwindCSS&lt;/li>
+&lt;li>Backend: Go, Python/Django, Node.js/Express, MongoDB, PostgreSQL, GraphQL, Redis&lt;/li>
+&lt;li>Deployment: AWS, Heroku, Github, Netlify&lt;/li>
+&lt;li>Developer tools: Github, Docker&lt;/li>
+&lt;/ul>
+&lt;p>Here are a few of my &lt;strong>applications&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/Slayzur02/Eski-Client">Chess Client&lt;/a> and &lt;a href="https://github.com/Slayzur02/Eski-Server">Chess Server&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/Slayzur02/Hospital-Locator">Hospital Locator&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/Slayzur02/Fudgy-Racer">Fudgy Racer&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/Slayzur02/BabaIsUs">Baba Is Us&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/Slayzur02/ScratchPaper">Scratch Paper&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/Slayzur02/Job-querier">Job Querier&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>This website also contains interesting &lt;a href="https://anhhhtran.netlify.app/">blogs&lt;/a> where I put down my thoughts on engineering &amp;amp; other topics I find intriguing.&lt;/p></description></item></channel></rss>
