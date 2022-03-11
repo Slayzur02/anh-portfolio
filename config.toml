@@ -1,4 +1,4 @@
-baseURL = "anhtran.pages.dev"
+baseURL = "https://anhtran.pages.dev"
 defaultContentLanguage = "en"
 hasCJKLanguage = true
 languageCode = "en"

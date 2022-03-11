@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anh&#39;s Personal Page</title>
-    <link>anhtran.pages.dev/</link>
+    <link>https://anhtran.pages.dev/</link>
     <description>Recent content on Anh&#39;s Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="anhtran.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://anhtran.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A taste of things to come</title>
-      <link>anhtran.pages.dev/post/introduction/</link>
+      <link>https://anhtran.pages.dev/post/introduction/</link>
       <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>anhtran.pages.dev/post/introduction/</guid>
+      <guid>https://anhtran.pages.dev/post/introduction/</guid>
       
       <description>&lt;p&gt;At the core of this blog is the belief that each write-up can be useful or inspiring for someone else. As a software engineer, I have found most value out of short, clearly written documents on fields and technologies. As a person, I however enjoy even more the random bits of life and crumbs of interesting thoughts that can expand and grow into new ideas, new views, new opinions on the world. On this blog, you can expect both a combination of technology, algorithms, guides on my path as a software engineering, thoughts and opinions on the &amp;ldquo;religions&amp;rdquo; of the engineering world, interesting facts on science, psychology, philosophy, as well as some of my own written short-stories.&lt;/p&gt;
 </description>
@@ -21,10 +21,10 @@
     
     <item>
       <title></title>
-      <link>anhtran.pages.dev/about/</link>
+      <link>https://anhtran.pages.dev/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>anhtran.pages.dev/about/</guid>
+      <guid>https://anhtran.pages.dev/about/</guid>
       
       <description>&lt;p&gt;My name is Anh, and I&amp;rsquo;m currently a junior student at Bucknell University majoring in Mathematics and Computer Science. I have a massive interest in building scalable full stack applications, and I&amp;rsquo;m curious about everything.&lt;/p&gt;
 &lt;p&gt;Here are my &lt;strong&gt;skills&lt;/strong&gt;:&lt;/p&gt;
@@ -43,7 +43,7 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/Slayzur02/ScratchPaper&#34;&gt;Scratch Paper&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/Slayzur02/Job-querier&#34;&gt;Job Querier&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;This website also contains interesting &lt;a href=&#34;anhtran.pages.dev/&#34;&gt;blogs&lt;/a&gt; where I put down my thoughts on engineering &amp;amp; other topics I find intriguing.&lt;/p&gt;
+&lt;p&gt;This website also contains interesting &lt;a href=&#34;https://anhtran.pages.dev/&#34;&gt;blogs&lt;/a&gt; where I put down my thoughts on engineering &amp;amp; other topics I find intriguing.&lt;/p&gt;
 </description>
       
     </item>
